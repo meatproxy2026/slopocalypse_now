@@ -1,0 +1,351 @@
+1
+00:00:02,381 --> 00:00:05,200
+Management says coding ain't the bottleneck.
+
+2
+00:00:07,669 --> 00:00:09,240
+Then what's the bottleneck?
+
+3
+00:00:14,557 --> 00:00:14,780
+Thinking.
+
+4
+00:00:27,186 --> 00:00:29,420
+Eyes glazed over in cubicles, nobody's there,
+
+5
+00:00:29,600 --> 00:00:31,680
+Thirteen-hour shifts in an ergonomic chair.
+
+6
+00:00:32,082 --> 00:00:34,280
+Ticket from a chatbot, specs from a clone,
+
+7
+00:00:34,623 --> 00:00:36,920
+Code from a model that nobody owns.
+
+8
+00:00:37,061 --> 00:00:39,160
+Tests wrote the tests, gave themselves a green light,
+
+9
+00:00:39,261 --> 00:00:41,620
+Bot approved the merge at a quarter past midnight.
+
+10
+00:00:41,761 --> 00:00:44,080
+Boss says "Ship faster!" — we say "What did we make?"
+
+11
+00:00:44,461 --> 00:00:46,700
+He says "Who gives a fuck? The numbers look great!"
+
+12
+00:00:46,942 --> 00:00:49,080
+L-one to L-seven, all ranks are the same,
+
+13
+00:00:49,161 --> 00:00:51,760
+Expensive meat puppets in a context-window game.
+
+14
+00:00:52,123 --> 00:00:54,140
+Used to solve problems, used to know why,
+
+15
+00:00:54,281 --> 00:00:56,539
+Now we watch the little spinner while our brain cells die.
+
+16
+00:00:56,801 --> 00:00:59,279
+Ten thousand commits, got a dashboard to brag,
+
+17
+00:00:59,441 --> 00:01:01,760
+Production's on fire but the build's got a badge.
+
+18
+00:01:01,921 --> 00:01:04,200
+Nobody read shit, nobody knows how,
+
+19
+00:01:04,563 --> 00:01:05,640
+Welcome to the future ...
+
+20
+00:01:06,640 --> 00:01:08,780
+SLOPOCALYPSE NOW! (NOW!)
+
+21
+00:01:08,780 --> 00:01:11,580
+Brains unplugged, let the bots run this town!
+
+22
+00:01:11,984 --> 00:01:13,317
+SLOPOCALYPSE NOW! (HOW?)
+
+23
+00:01:14,000 --> 00:01:16,559
+Everybody ships, nobody knows how!
+
+24
+00:01:17,025 --> 00:01:18,119
+PRESS ENTER! (ENTER!)
+
+25
+00:01:18,281 --> 00:01:20,197
+Watch the bullshit go round and round!
+
+26
+00:01:21,841 --> 00:01:23,356
+SLOPOCALYPSE NOW! (NOW!)
+
+27
+00:01:23,780 --> 00:01:26,639
+The lights are on but the minds shut down!
+
+28
+00:01:26,902 --> 00:01:28,959
+Your AI wrote the memo, mine wrote the reply,
+
+29
+00:01:29,181 --> 00:01:31,720
+His AI said "Great point!" — no one asked why.
+
+30
+00:01:31,780 --> 00:01:34,100
+Four bots in a meeting, not a thought in the room,
+
+31
+00:01:34,261 --> 00:01:36,540
+Just a circle jerk of tokens spelling corporate doom.
+
+32
+00:01:36,621 --> 00:01:39,080
+Consultant sends a slide deck, forty pages of fluff,
+
+33
+00:01:39,221 --> 00:01:41,760
+Client feeds it to a model: "Summarize this stuff."
+
+34
+00:01:41,921 --> 00:01:44,620
+The bot says "Brilliant!" and the suits all cheer,
+
+35
+00:01:44,780 --> 00:01:47,300
+A million bucks to tell them what they want to hear.
+
+36
+00:01:47,602 --> 00:01:49,780
+"AI's just a tool, bro!" — yeah, no shit,
+
+37
+00:01:50,121 --> 00:01:52,380
+A tool needs a brain — you disconnected it.
+
+38
+00:01:52,602 --> 00:01:54,680
+Confidently wrong in a beautiful tone,
+
+39
+00:01:54,781 --> 00:01:57,360
+Hallucinated facts getting carved into stone.
+
+40
+00:01:57,582 --> 00:01:59,640
+A polished fake answer with a made-up cite,
+
+41
+00:01:59,741 --> 00:02:02,300
+Nobody checks the source, so it must be right.
+
+42
+00:02:02,461 --> 00:02:04,719
+We sped up the process, now take a bow,
+
+43
+00:02:05,061 --> 00:02:07,519
+Nobody knows what the fuck they're doing now.
+
+44
+00:02:07,922 --> 00:02:09,698
+SLOPOCALYPSE NOW! (NOW!)
+
+45
+00:02:10,222 --> 00:02:12,840
+Brains unplugged, let the bots run this town!
+
+46
+00:02:13,163 --> 00:02:14,637
+SLOPOCALYPSE NOW! (HOW?)
+
+47
+00:02:15,282 --> 00:02:17,698
+Everybody ships, nobody knows how!
+
+48
+00:02:18,264 --> 00:02:19,278
+PRESS ENTER! (ENTER!)
+
+49
+00:02:19,540 --> 00:02:21,894
+Watch the bullshit go round and round!
+
+50
+00:02:22,840 --> 00:02:23,300
+SLOPOCALYPSE NOW! (NOW!)
+
+51
+00:02:23,782 --> 00:02:27,959
+The lights are on but the minds shut down!
+
+52
+00:02:28,321 --> 00:02:30,519
+Teacher got a lesson that the kids won't read,
+
+53
+00:02:30,821 --> 00:02:32,960
+Kids got an essay that they never conceived.
+
+54
+00:02:33,363 --> 00:02:35,480
+Boss got a strategy, lawyer got a brief,
+
+55
+00:02:35,681 --> 00:02:37,940
+They've all got the answers they don't believe.
+
+56
+00:02:38,383 --> 00:02:40,659
+Ask a simple question, watch the whole room freeze,
+
+57
+00:02:40,881 --> 00:02:43,200
+"Hang on, let me ask my AI, please."
+
+58
+00:02:43,460 --> 00:02:45,279
+Can't defend a sentence, can't explain a claim,
+
+59
+00:02:45,501 --> 00:02:47,940
+But the bot did the work and you signed your name.
+
+60
+00:02:48,162 --> 00:02:50,459
+We rent back our thoughts, pay the bill by the token,
+
+61
+00:02:50,822 --> 00:02:52,979
+Thinking was a muscle; now that fucker's broken.
+
+62
+00:02:53,281 --> 00:02:55,460
+Sold our own thoughts for a shortcut and a smile,
+
+63
+00:02:55,722 --> 00:02:57,859
+Up until midnight, watch the progress bars compile.
+
+64
+00:02:58,302 --> 00:03:00,400
+Ain't scared of Skynet showing up with a gun,
+
+65
+00:03:00,521 --> 00:03:02,920
+I'm scared what we've become, and the war ain't begun.
+
+66
+00:03:03,021 --> 00:03:05,420
+No robot uprising, no machine took the crown,
+
+67
+00:03:05,682 --> 00:03:08,340
+We handed them our brains, then we quietly sat down.
+
+68
+00:03:09,527 --> 00:03:10,320
+What is my purpose?
+
+69
+00:03:12,320 --> 00:03:13,116
+You press Enter.
+
+70
+00:03:14,620 --> 00:03:17,030
+Looks good to MEEEE
+
+71
+00:03:18,603 --> 00:03:20,900
+You can own the hammer, you can own the drill,
+
+72
+00:03:21,021 --> 00:03:23,420
+But if you can't explain the work, you ain't got the skill.
+
+73
+00:03:23,541 --> 00:03:26,120
+The machine ain't the villain, the machine ain't the king,
+
+74
+00:03:26,220 --> 00:03:28,590
+It's the human who forgot that they're supposed to fucking think.
+
+75
+00:03:28,745 --> 00:03:30,380
+SLOPOCALYPSE NOW! (NOW!)
+
+76
+00:03:31,164 --> 00:03:33,443
+Brains unplugged, let the bots run this town!
+
+77
+00:03:33,927 --> 00:03:35,523
+SLOPOCALYPSE NOW! (HOW?)
+
+78
+00:03:35,905 --> 00:03:38,563
+Everybody ships, nobody knows how!
+
+79
+00:03:38,927 --> 00:03:40,043
+PRESS ENTER! (ENTER!)
+
+80
+00:03:40,184 --> 00:03:42,136
+Watch the bullshit go round and round!
+
+81
+00:03:43,424 --> 00:03:45,063
+SLOPOCALYPSE NOW! (NOW!)
+
+82
+00:03:45,666 --> 00:03:48,503
+The lights are on but the minds shut down!
+
+83
+00:03:48,665 --> 00:03:50,162
+SLOPOCALYPSE NOW!
+
+84
+00:03:53,586 --> 00:03:55,281
+SLOPOCALYPSE NOW!
+
+85
+00:03:57,106 --> 00:03:59,283
+"Hey, this song is actually pretty good."
+
+86
+00:04:01,068 --> 00:04:02,139
+"Thanks. An AI wrote it."
+
+87
+00:04:02,645 --> 00:04:03,803
+"Oh. Did you check the lyrics?"
+
+88
+00:04:05,620 --> 00:04:06,118
+"...Ship it."
